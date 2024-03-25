@@ -13,7 +13,7 @@
 ---
 
 ### :woman_technologist: A Little About Me :
-Hi there :wave: I'm a Python enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and aspiring data sceintist living in London.
+Hi there :wave: I'm a Python enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and data sceintist living in London.
 
 - :telescope: I’m currently enrolled in HyperionDev's Data Science Bootcamp.
 
